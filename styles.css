@@ -107,3 +107,39 @@ h2 {
     margin: 0px;
     font-size: 25px;
 }
+
+
+#per {
+    color: #0d0;
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: 50px;
+}
+
+.txt {
+    color: rgb(8, 7, 7);
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: 25px;
+
+}
+
+.section {
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.section-2 {
+    max-width: 1500px;
+    height: auto;
+
+}
+
+.section {
+    display: flex;
+    flex-wrap: wrap;
+    flex-wrap: wrap;
+}
