@@ -246,3 +246,15 @@ h2 {
     justify-content: space-evenly;
 }
 
+.section6 {
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
+
+.section6-1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
